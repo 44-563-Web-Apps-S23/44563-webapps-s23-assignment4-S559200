@@ -26,3 +26,13 @@ table{
 tr:nth-child(even) {
     background-color:wheat;
 }
+.KATE:hover{
+    color:cornflowerblue;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
+.HARRY:hover{
+    color:crimson;
+    text-shadow: 2px 1px 3px chocolate;
+    border-style: solid;
+}
