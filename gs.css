@@ -38,7 +38,7 @@ tr:nth-child(even) {
 }
 ul{
     display: flex;
-    background-color:darkslateblue;
+    background-color:darkgreen;
     
 }
 ul li{
