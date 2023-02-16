@@ -36,3 +36,20 @@ tr:nth-child(even) {
     text-shadow: 2px 1px 3px chocolate;
     border-style: solid;
 }
+ul{
+    display: flex;
+    background-color:darkslateblue;
+    
+}
+ul li{
+    list-style: none;
+    padding: 20px;
+}
+ul li a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #fff;
+}
+li a:hover{
+    text-decoration:line-through;
+}
